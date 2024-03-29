@@ -1,0 +1,130 @@
+@media (max-width: 767px){
+    .bg-container{
+        padding: 12px 30px 12px 30px;
+    }
+    
+    .navbar{
+        width: 100%;
+    }
+
+    .navbar-nav{
+        width: 100%;
+        margin-top: 18px;
+    }
+
+    .search-profile-container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main-heading{
+        margin: 0 0 14px 0;
+    }
+
+    .search-container{
+        width: 100%;
+    }
+
+    .search-input-container{
+        width: 90%;
+        margin: 0;
+    }
+
+    #theme-btn{
+        margin-left: 14px;
+        align-self: flex-start;
+    }
+
+    .search-container{
+        margin-bottom: 12px;
+    }
+
+    .notification-profile-container-sm{
+        display: flex;
+    }
+
+    .notification-profile-container-lg{
+        display: none;
+    }
+
+    .notification-container{
+        margin-left: 12px;
+        font-size: 12px;
+
+    }
+
+    .name,
+    .role{
+        font-size: 14px;
+    }
+
+    .profile-container{
+        margin: 0;
+    }
+
+    .detailed-information-view{
+        margin-top: 80px;
+    }
+
+    .dashboard-item{
+        width: 100%;
+    }
+
+    .summary-list-container{
+        flex-direction: column;
+    }
+
+    .summary-heading{
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .summary-ans{
+        margin: 12px 0 38px 0;
+    }
+
+    .refer-heading{
+        width: 100%;
+        text-align: center;
+    }
+
+    .your-referral-details-container{
+        flex-direction: column;
+    }
+
+    .referral-link-container{
+        margin: 0;
+    }
+
+    .referral-code-container{
+        margin-top:22px;
+    }
+    .referral-entries-container{
+        margin-top: 60px;
+        width: 100%;
+    }
+
+    .sm-hide{
+        display: none;
+    }
+
+    footer{
+        margin-top: 120px;
+        width: 100%;
+    }
+
+    .footer-list-item{
+        display: none;
+        margin: 0 12px 0 12px;
+        text-align: center;
+    }
+
+    .header{
+        display: inline;
+    }
+
+    .contact-banner-container{
+        margin-top: 50px;
+    }
+
+}
